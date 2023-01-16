@@ -9,7 +9,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reda.roshdy4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/redaroshd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reda-roshdy-828307155)
 [![leetCode](https://img.shields.io/static/v1?label=&logo=LeetCode&message=LeetCode&color=white)](https://leetcode.com/Reda_Roshdy/)
-[![HackerRank](https://img.shields.io/static/v1?label=&logo=HackerRank&message=LeetCode&color=black)](https://www.hackerrank.com/rroshdy75)
+[![HackerRank](https://img.shields.io/static/v1?label=&logo=HackerRank&message=HackerRank&color=black)](https://www.hackerrank.com/rroshdy75)
 [![Kaggel](https://img.shields.io/static/v1?label=&logo=Kaggle&message=Kaggel&color=lightgrey)](https://www.kaggle.com/redaroshdy)
 # 💻 Tech Stack:
 
